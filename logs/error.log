@@ -1,0 +1,4 @@
+mkdir logs
+touch logs/error.log
+chmod 755 logs/
+chmod 644 logs/error.log
